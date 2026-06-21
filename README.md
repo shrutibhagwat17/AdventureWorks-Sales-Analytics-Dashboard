@@ -2,19 +2,16 @@
 
 ## 📝 Project Overview
 
-This project is an end-to-end Power BI solution built using the AdventureWorks dataset to analyze sales performance, customer behavior, product performance, and regional trends.
-
-The dashboard leverages Power Query, DAX, data modeling, drill-through navigation, and advanced Power BI visualizations to provide actionable business insights and support data-driven decision-making.
+Interactive Power BI dashboard built using the AdventureWorks dataset to analyze sales performance, customer behavior, product performance, and regional trends.
 
 ---
 
 ## 🎯 Business Objectives
 
-- Monitor revenue, profit, and orders
-- Analyze product performance
-- Identify high-value customers
-- Evaluate regional sales trends
-- Track return rates and profitability
+- Monitor Revenue, Profit, Orders, and Return Rate
+- Analyze Product Performance
+- Identify High-Value Customers
+- Evaluate Regional Sales Trends
 
 ---
 
@@ -24,7 +21,6 @@ The dashboard leverages Power Query, DAX, data modeling, drill-through navigatio
 - Power Query
 - DAX
 - Data Modeling
-- Power BI Service
 - Drill Through
 - What-If Parameters
 
@@ -33,34 +29,23 @@ The dashboard leverages Power Query, DAX, data modeling, drill-through navigatio
 ## 📌 Dashboard Pages
 
 ### 📈 Executive Dashboard
-
-- Revenue KPI
-- Profit KPI
-- Orders KPI
-- Return Rate KPI
-- Revenue Trend Analysis
-- Product Category Performance
+- KPI Tracking
+- Revenue Trends
+- Product Category Analysis
 
 ### 📦 Product Detail Dashboard
-
-- Product Drill-Through Analysis
-- Price Adjustment What-If Scenario
-- Revenue vs Target
-- Profit vs Target
-- Product-Level Performance Metrics
+- Product Drill-Through
+- What-If Analysis
+- Product Performance Metrics
 
 ### 👥 Customer Detail Dashboard
-
 - Customer Segmentation
-- Revenue Per Customer
-- Top Customers Analysis
-- Occupation & Income Insights
+- Top Customer Analysis
+- Revenue per Customer
 
 ### 🌍 Geographic Dashboard
-
-- Regional Performance Analysis
-- Country-Level Sales Distribution
-- Interactive Geographic Filtering
+- Regional Sales Analysis
+- Interactive Map Visualizations
 
 ---
 
@@ -80,7 +65,7 @@ The dashboard leverages Power Query, DAX, data modeling, drill-through navigatio
 
 ✅ Data Modeling
 
-✅ Drill Through Navigation
+✅ Drill Through
 
 ✅ Dynamic Measures
 
@@ -94,9 +79,7 @@ The dashboard leverages Power Query, DAX, data modeling, drill-through navigatio
 
 ✅ Decomposition Tree
 
-✅ Key Influencers Visual
-
-✅ Interactive Filtering
+✅ Key Influencers
 
 ---
 
