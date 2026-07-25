@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Sales Analytics Report
+# 📊 Adventure Works Sales Analytics Report
 ## 📝 Project Overview
 
 Interactive Power BI Report built using the AdventureWorks dataset to analyze sales performance, customer behavior, product performance, and regional trends.
